@@ -1,7 +1,7 @@
 # BlogPost
 Sample front-end web design project for a simple blogPost site.
 
-##Getting Started
+## Getting Started
 The project contains two folders reviewing adding html elements and then adjusting those elements with CSS
 
 ## Installation
